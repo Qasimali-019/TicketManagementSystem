@@ -1,0 +1,27 @@
+# Build
+bin/
+obj/
+Debug/
+Release/
+
+# User-specific files
+*.user
+*.rsuser
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Database files
+*.mdf
+*.ldf
+*.bak
+
+# VS settings
+.vs/
+
+# Logs
+*.log
+
+# Secrets
+appsettings.json
+appsettings.Development.json
