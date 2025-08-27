@@ -78,7 +78,7 @@ TicketManagementSystem/
 
 
 ## 1.  **Clone the repository**  
-   git clone https://github.com/your-username/TicketManagementSystem.git
+   git clone https://github.com/Qasimali-019/TicketManagementSystem.git
    cd TicketManagementSystem
 Open in Visual Studio 2022
 
